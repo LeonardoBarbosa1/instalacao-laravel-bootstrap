@@ -1,5 +1,8 @@
 # Instalação Laravel+Bootstrap
 
+### Essa Versão do Laravel: 10.2.3 <br>
+### Essa Versão do Bootstrap: 5.2.3<br>
+
 ### 1º Abra o Terminal <br>
 
 ### 2º Execute o comando:<br>
