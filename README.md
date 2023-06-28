@@ -22,7 +22,7 @@
 ### 7º Execute o Comando no terminal dentro da pasta do projeto: <br>
 - php artisan migrate
 
-### instale o bootstrap no seu projeto 
+### 8º instale o bootstrap no seu projeto 
 - no terminal execute o comando: php artisan ui bootstrap --auth
 
-### Execute o comando: npm install
+### 9º Execute o comando: npm install
